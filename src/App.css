@@ -1,0 +1,31 @@
+.setJSBG{
+    background-image: url(./assets/images/jsBG.jpg);
+    border-radius: 20px;
+}
+
+.setbg{
+    background-color: plum;
+}
+
+#setHov:hover{
+    background-color: rgb(242, 211, 248);
+}
+
+#setWidth{
+    border: 1px solid black;
+    width: 25rem;
+    height: 28rem;
+}
+
+
+.setColor1{
+    color: blueviolet;
+}
+
+.setColor2{
+    color: rgb(104, 160, 19);
+}
+
+.setColor3{
+    color:#79667b ;
+}
